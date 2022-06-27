@@ -31,7 +31,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: index.html
-- Live Site URL: [https://your-live-site-url.com](https://hanas98.github.io/Product-preview-card-component/)
+- Live Site URL: [https://your-live-site-url.com](https://hanas98.github.io/qr-code-component-main/)
+
 
 ## My process
 
